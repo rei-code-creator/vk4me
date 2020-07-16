@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 1.7.0_80-b15 (Oracle Corporation)
+MIDlet-1: VK4ME Next,/res/phmini.png,ru.curoviyxru.phoenix.midlet.Midl
+ et
+MIDlet-Permissions: javax.microedition.io.Connector.file.read, javax.m
+ icroedition.io.Connector.file.write, javax.microedition.io.Connector.
+ http, javax.microedition.io.Connector.ssl, javax.microedition.io.Conn
+ ector.https
+MIDlet-Vendor: curoviyxru
+Nokia-Scalable-Icon-MIDlet-1: /res/ph.svg
+MIDlet-Info-URL: http://vk4me.curoviyx.ru/
+Nokia-MIDlet-On-Screen-Keypad: no
+MIDlet-Name: VK4ME Next
+MIDlet-Icon: /res/phmini.png
+Nokia-UI-Enhancement: MusicKeysSupported,CanvasHasBackground
+MIDlet-Version: 2.0.0
+UseNativeTextButtons: false
+Nokia-Scalable-Icon: /res/ph.svg
+LGE-MIDlet-Indicator: HIDE
+Nokia-MIDlet-1-ru-RU: VK4ME Next
+Nokia-MIDlet-S60-Selection-Key-Compatibility: true
+Nokia-MIDlet-Splash-Screen-Image: suppress
+LGE-MIDlet-TargetLCD-Width: 480
+Nokia-MIDlet-No-Exit: true
+Nokia-MIDlet-Background-Event: pause
+Nokia-MIDlet-Flip-Close: pause
+progressive_download: enabled
+ReverseSoftkeys: true
+debugOptions: 1
+LGE-MIDlet-TargetLCD-Height: 800
+UseNativeCommands: false
+Nokia-Update: http://vk4me.curoviyx.ru/next/latest.jar
+MVM-Pause-Background: false
+Nokia-MIDlet-Name-ru-RU: VK4ME Next
+MIDlet-Description: Unofficial client for russian social site, VK, for
+  devices supporting CLDC 1.1 and MIDP 2.0.
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+
